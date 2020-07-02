@@ -1,0 +1,7 @@
+First we generate the output of "toJudge" Code and put it in folder "judgeOut" with OPTION "0".
+
+Then with OPTION "1" we generate output of "right" code and put it in filde "out" and then compare these outputs.
+
+
+ 
+If they  gave us the input and outputs only. We use OPTION "3" to generate outputs to folder "judgeOut" and then judge it.
